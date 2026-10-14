@@ -1,5 +1,5 @@
 resource "genesyscloud_routing_skill" "example_skill" {
-  name = "test123"
+  name = "test456"
 }
 
 resource "genesyscloud_routing_skill" "example_skill2" {
